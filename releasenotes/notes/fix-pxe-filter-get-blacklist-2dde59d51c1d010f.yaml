@@ -1,6 +1,0 @@
----
-fixes:
-  - |
-    Fixes an issue while mapping port InfiniBand MAC
-    address to EthernetOverInfiniBand MAC. Prior to this fix,
-    it will fail to map and raise an exception.

@@ -1,5 +1,0 @@
----
-features:
-  - |
-    The new API ``GET /v1/introspection/<node>/data/unprocessed`` allows
-    retrieving raw (unprocessed) data if data store is enabled.

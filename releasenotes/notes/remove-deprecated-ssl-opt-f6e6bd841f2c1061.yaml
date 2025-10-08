@@ -1,5 +1,0 @@
-upgrade:
-  - |
-    The deprecated SSL configuration options ``[DEFAULT]ssl_cert_path`` and
-    ``[DEFAULT]ssl_key_path`` were removed, please use configuration options
-    from ``[ssl]`` section.

@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes ``AttributeError: 'Node' object has no attribute 'uuid'`` when
-    trying to introspect an active node that is not currently in the cache.
