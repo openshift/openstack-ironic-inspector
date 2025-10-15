@@ -1,4 +1,0 @@
----
-fixes:
-  - |
-    Fixes database migrations with SQLAlchemy 1.3.20.

@@ -1,5 +1,0 @@
----
-other:
-  - |
-    The deprecated configuration option ``[iptables]manage_firewall`` was
-    removed, use ``[pxe_filter]driver`` to set filtering driver.

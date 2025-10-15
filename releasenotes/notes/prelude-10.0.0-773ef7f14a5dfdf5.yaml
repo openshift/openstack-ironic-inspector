@@ -1,4 +1,0 @@
----
-prelude: >
-    The Train release of Ironic Inspector features support for running separate
-    API and conductor services.

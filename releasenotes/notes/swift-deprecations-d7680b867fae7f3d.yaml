@@ -1,5 +1,0 @@
----
-upgrade:
-  - |
-    The deprecation configuration options ``os_service_type``, ``os_region``
-    and ``os_endpoint_type`` from the ``[swift]`` section have been removed.

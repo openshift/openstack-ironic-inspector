@@ -1,4 +1,0 @@
----
-features:
-  - Modifies introspection rules to allow formatting to be applied to strings
-    nested in dicts and lists in the actions.
