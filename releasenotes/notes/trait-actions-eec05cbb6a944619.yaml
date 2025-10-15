@@ -1,5 +1,0 @@
----
-features:
-  - |
-    Adds new introspection rules actions to add or remove traits on nodes:
-    ``add-trait`` and ``remove-trait``.

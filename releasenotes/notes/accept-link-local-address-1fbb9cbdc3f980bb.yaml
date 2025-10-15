@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes an issue where IPv6 link local addresses are ignored during
-    interface validation, making introspection fail.

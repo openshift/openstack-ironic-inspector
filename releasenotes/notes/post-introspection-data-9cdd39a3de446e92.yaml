@@ -1,7 +1,0 @@
----
-features:
-  - |
-    Adds support to reapply with provided unprocessed introspection data. The
-    introspection data is supplied in the body of POST request to
-    ``/v1/introspection/<node_id>/data/unprocessed``. The introspection data
-    will also be saved to storage backend.
